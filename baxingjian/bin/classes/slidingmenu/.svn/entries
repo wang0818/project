@@ -1,0 +1,31 @@
+8
+
+dir
+350
+http://10.0.1.200/svn/android_client/trunk/src/com/slidingmenu
+http://10.0.1.200/svn/android_client
+
+
+
+2013-11-26T01:36:03.752682Z
+336
+wang.junbao
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b5558321-dec8-470e-a26c-1c11668b2677
+
+lib
+dir
+

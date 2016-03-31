@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app
+END
+SlidingActivityBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app/SlidingActivityBase.java
+END
+SlidingFragmentActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app/SlidingFragmentActivity.java
+END
+SlidingListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app/SlidingListActivity.java
+END
+SlidingPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/android_client/!svn/ver/365/trunk/src/com/slidingmenu/lib/app/SlidingPreferenceActivity.java
+END
+SlidingActivityHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app/SlidingActivityHelper.java
+END
+SlidingMapActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app/SlidingMapActivity.java
+END
+SlidingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/android_client/!svn/ver/336/trunk/src/com/slidingmenu/lib/app/SlidingActivity.java
+END
